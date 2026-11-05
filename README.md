@@ -10,7 +10,7 @@ Controlling a 2D Quadcopter with Rigidbody Physics using Control Theory and Rein
 **Subject:** Reinforcement Learning — Lab Evaluation Project  
 **Algorithm:** Soft Actor-Critic (SAC)  
 **Framework:** Stable-Baselines3 + Gymnasium + Pygame  
-**Dataset:** We used a 2D drone simulation environment called DroneEnv, based on the open-source Quadcopter-AI project, and used a pre-trained SAC model.
+**Dataset:** We used a 2D drone simulation environment called DroneEnv, based on the open-source Quadcopter-AI project, and used a pre-trained SAC model
 
 ---
 
