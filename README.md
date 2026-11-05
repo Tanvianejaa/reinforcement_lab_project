@@ -6,7 +6,7 @@ Controlling a 2D Quadcopter with Rigidbody Physics using Control Theory and Rein
   <img src="media/balloon.gif" alt="Main Game" width="50%"/>
 </p>
 
-**Author:** Tanvi Aneja  
+
 **Subject:** Reinforcement Learning — Lab Evaluation Project  
 **Algorithm:** Soft Actor-Critic (SAC)  
 **Framework:** Stable-Baselines3 + Gymnasium + Pygame
